@@ -24,3 +24,23 @@ margin-bottom: 200px;
     border: none;
    
   }
+  .singup{
+    background-color: #01bf86;
+    color: white;
+    border-radius: 20px;
+    border: none;
+    padding: 8px;
+    width: 140px;
+    
+  }
+  ul{
+    list-style: none;
+gap: 40px;
+color: #828b91;
+}
+/* .list{
+  gap: 40px; */
+
+.footer{
+margin-right: 500px;  
+}
